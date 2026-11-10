@@ -4,5 +4,6 @@
   "version": "1.0.0",
   "description": "Plan work into right-sized steps and review available model guidance with Elis Token Saver.",
   "author": { "name": "Elis AI", "url": "https://tryelisai.com" },
-  "license": "Proprietary"
+  "license": "Proprietary",
+  "privacyPolicyUrl": "https://tryelisai.com/privacy"
 }
