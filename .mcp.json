@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "elis-token-saver": {
+      "type": "http",
+      "url": "https://api.tryelisai.com/api/mcp/claude"
+    }
+  }
+}

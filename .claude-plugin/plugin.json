@@ -1,0 +1,8 @@
+{
+  "name": "elis-token-saver",
+  "displayName": "Elis Token Saver",
+  "version": "1.0.0",
+  "description": "Plan work into right-sized steps and review available model guidance with Elis Token Saver.",
+  "author": { "name": "Elis AI", "url": "https://tryelisai.com" },
+  "license": "Proprietary"
+}
